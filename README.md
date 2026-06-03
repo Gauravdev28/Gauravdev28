@@ -28,10 +28,3 @@ I am passionate about merging the precision of **AI/ML** with the creative reach
 ---
 *Check out my pinned repositories below to see my work in action.*
 
-
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-</p>
