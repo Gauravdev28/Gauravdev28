@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Gaurav Agarwal 👋
 
-<!--
-**Gauravdev28/Gauravdev28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech AIML Student | Frontend Developer | Building the future, one commit at a time.**
 
-Here are some ideas to get you started:
+I am passionate about merging the precision of **AI/ML** with the creative reach of **Frontend Development**. Currently focused on architecting scalable web applications and hardening my foundations in **DSA**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Toolkit
+*   **Languages:** C++, Python, JavaScript (ES6+), HTML5, CSS3
+*   **Web Development:** Responsive Design, UI/UX Principles
+*   **Core Engineering:** Data Structures & Algorithms (DSA), Problem Solving
+*   **Tools:** Git, GitHub, VS Code, Linux
+
+### 💼 Professional Journey
+*   **Intern @CodeAlpha:** Engineering responsive interfaces and optimizing frontend workflows.
+*   **Coordinator @PreGrad:** Leading peer collaboration and technical project management.
+
+### 📈 Current Focus
+*   **AI/ML Integration:** Bridging data science models with user-facing web interfaces.
+*   **DSA Mastery:** Sharpening problem-solving efficiency to build robust, high-performance software.
+
+---
+
+### 🌐 Let’s Connect
+[LinkedIn](www.linkedin.com/in/gauravdeveloper) | [Portfolio/Website](gauravagl.web.app) | [Email](gauravagldeveloper28@gmail.com)
+
+---
+*Check out my pinned repositories below to see my work in action.*
