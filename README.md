@@ -23,7 +23,7 @@ I am passionate about merging the precision of **AI/ML** with the creative reach
 ---
 
 ### 🌐 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/gauravdeveloper) | [Portfolio/Website](https://gauravagl.web.app) | [Email](gauravagldeveloper28@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gauravdeveloper) | [Portfolio](https://gauravagl.web.app) | [Email](gauravagldeveloper28@gmail.com)
 
 ---
 *Check out my pinned repositories below to see my work in action.*
