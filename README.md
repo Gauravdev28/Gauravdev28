@@ -1,110 +1,117 @@
+<div align="center">
 
 # Hi, I'm Gaurav Agarwal 👋
 
 ### B.Tech AI & ML Student | AI/ML Developer | Full-Stack Developer
 
-I'm a B.Tech student at ITM University, Gwalior, interested in Artificial Intelligence, Machine Learning, and Full-Stack Development.
+I enjoy building practical software applications using Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
-I enjoy building practical software projects, developing AI-powered applications, and learning new technologies by working on real problems.
+<p>
+  <a href="https://github.com/Gauravdev28">
+    <img src="https://img.shields.io/badge/GitHub-Gauravdev28-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gauravdeveloper">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://gauravagl.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
+</p>
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 🤖 Interested in AI, Machine Learning, and Generative AI
-- 💻 Working with Python, React, TypeScript, and Django
-- 🧠 Exploring Deep Learning, LLMs, and Predictive Analytics
-- 🚀 Building full-stack applications and AI-based projects
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning at ITM University, Gwalior.
+
+I'm interested in developing intelligent applications and solving real-world problems through software and AI.
+
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning.
+- 💻 Interested in Full-Stack Development.
+- 🤖 Exploring Machine Learning, Deep Learning, and Generative AI.
+- 🧠 Working with Python, React, TypeScript, and backend technologies.
+- 🚀 Building practical projects and learning new technologies.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- Python
-- C++
-- JavaScript
-- TypeScript
-- SQL
-- HTML & CSS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Frontend Development**
-- React
-- Vite
-- Tailwind CSS
-- Three.js
-- React Three Fiber
-- Recharts
+**💻 Programming Languages**
 
-**Backend Development**
-- Python
-- Django
-- Django REST Framework
-- FastAPI
-- REST APIs
-- Celery
-- Django Channels
+Python · C++ · JavaScript · TypeScript · SQL · HTML · CSS
 
-**AI & Machine Learning**
-- Scikit-learn
-- Pandas
-- NumPy
-- XGBoost
-- SHAP
-- PyTorch
-- Computer Vision
-- Deep Learning
-- Ollama
-- Qwen3
-- Faster-Whisper
-- Piper TTS
+**🎨 Frontend Development**
 
-**Databases**
-- MySQL
-- PostgreSQL
-- Redis
+React · Vite · Tailwind CSS · Three.js · Recharts · GSAP
 
-**Tools & Deployment**
-- Git & GitHub
-- Docker
-- Docker Compose
-- Nginx
-- Microsoft Azure
-- VS Code
-- Linux
+**⚙️ Backend Development**
+
+Django · Django REST Framework · FastAPI · REST APIs · Celery · Django Channels
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI & Machine Learning**
+
+Scikit-learn · PyTorch · Pandas · NumPy · XGBoost · SHAP · CNN · Computer Vision
+
+**🗄️ Databases**
+
+MySQL · PostgreSQL · Redis
+
+**☁️ Tools & Technologies**
+
+Git · GitHub · Docker · Docker Compose · Nginx · Azure · Linux · VS Code
+
+**🎙️ Generative AI & Voice AI**
+
+Ollama · Qwen3 · Faster-Whisper · Piper TTS
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 1. ExamIIO — Online Examination Platform
 
 A university examination and assessment platform designed to manage online examinations and technical assessments.
 
-**Features**
-- SQL, MCQ, Coding, and Data Analytics assessments
-- Admin, Faculty, Student, and Proctor workflows
-- Question and examination management
-- Online coding assessment and automated evaluation
-- Proctor assignment and examination monitoring
-- Student results and gradebook management
-- Examination security controls
+**Key Features**
+- SQL, MCQ, Coding, and Data Analytics assessments.
+- Admin, Faculty, Student, and Proctor workflows.
+- Question and examination management.
+- Online coding assessments and automated evaluation.
+- Proctor assignment and examination monitoring.
+- Student results and gradebook management.
+- Examination security controls.
 
 **Technologies:** React, TypeScript, Python, Django, MySQL, Redis, Docker, Azure.
 
-Repository: Private
+**Repository:** Private
 
 ---
 
 ### 2. AI Restaurant Voice Assistant
 
-A local AI-powered restaurant assistant that can interact with customers through voice and help manage food orders.
+A local AI-powered restaurant assistant that interacts with customers through voice and helps manage food orders.
 
-**Features**
-- Voice-based customer interaction
-- Menu understanding and food recommendations
-- Speech recognition using Faster-Whisper
-- Local AI model using Ollama and Qwen3
-- Voice generation using Piper TTS
-- Order creation and modification
-- Customer confirmation before saving orders
+**Key Features**
+- Voice-based customer interaction.
+- English, Hindi, and Hinglish support.
+- Menu understanding and food recommendations.
+- Speech recognition using Faster-Whisper.
+- Local AI model using Ollama and Qwen3.
+- Voice generation using Piper TTS.
+- Order creation, modification, and confirmation.
 
 **Technologies:** React, TypeScript, Python, FastAPI, Ollama, Qwen3, Faster-Whisper, Piper TTS.
 
@@ -112,55 +119,48 @@ A local AI-powered restaurant assistant that can interact with customers through
 
 ---
 
-### 3. AI Student Performance & Early Dropout Prediction
+### 3. AI Student Success Prediction & Learning Analytics
 
-A machine learning project focused on analyzing student performance and identifying students who may be at risk academically.
+A machine learning project focused on predicting student examination performance and identifying students who may need academic support.
 
-**Features**
-- Student performance analysis
-- Academic risk prediction
-- Machine learning model evaluation
-- XGBoost-based prediction
-- SHAP-based explainability
-- Data analysis and visualization
+**Key Features**
+- Student examination marks prediction.
+- Linear Regression.
+- Random Forest Regressor.
+- Decision Tree Regressor.
+- Early-warning academic risk prediction.
+- XGBoost-based risk prediction.
+- SHAP-based model explainability.
+- Student performance analytics.
 
-**Technologies:** Python, FastAPI, Scikit-learn, XGBoost, SHAP, Pandas, NumPy.
+**Technologies:** Python, Scikit-learn, Pandas, NumPy, XGBoost, SHAP.
 
-Repository: Private
+**Repository:** Private
 
 ---
 
 ### 4. Brain Tumor Classification
 
-A deep learning project for multi-class brain tumor classification and segmentation using MRI images.
+A deep learning project focused on brain tumor classification and MRI image analysis.
 
-**Features**
-- MRI image processing
-- Brain tumor classification
-- Attention U-Net segmentation
-- Hybrid CNN and Vision Transformer model
-- Grad-CAM and attention-based explainability
+**Technologies:** Python, PyTorch, Deep Learning, Computer Vision.
 
-**Technologies:** Python, PyTorch, CNN, Vision Transformer, EfficientNet, Attention U-Net, Streamlit.
-
-Repository: Private
+**Repository:** Private
 
 ---
 
 ### 5. AI Career Assistant
 
-A career preparation platform with resume building, job description analysis, and ATS-based resume evaluation.
+A career preparation application focused on resume building and job description analysis.
 
-**Features**
-- Resume creation and PDF export
-- Job description analysis
-- Skill gap identification
-- ATS scoring
-- Resume improvement suggestions
+**Key Features**
+- Resume creation.
+- PDF export.
+- Job description analysis.
+- Skill gap identification.
+- ATS-based resume evaluation.
 
-**Technologies:** React, TypeScript, FastAPI, Python, SQLAlchemy.
-
-Repository: Private
+**Repository:** Private
 
 ---
 
@@ -168,29 +168,27 @@ Repository: Private
 
 My personal portfolio website showcasing my projects, technical skills, and development journey.
 
-**Technologies:** React, TypeScript, TanStack Start, Tailwind CSS, Three.js, GSAP, Framer Motion.
+**Technologies:** React, TypeScript, Tailwind CSS, Three.js, GSAP, Framer Motion.
 
-[View Portfolio Repository](https://github.com/Gauravdev28/Gaurav-Developer-Portfolio-)
-
-[Visit Portfolio Website](https://gauravagl.vercel.app)
+- [Portfolio Repository](https://github.com/Gauravdev28/Gaurav-Developer-Portfolio-)
+- [Live Portfolio](https://gauravagl.vercel.app)
 
 ---
 
 ### 7. IEEE Hackathon Website
 
-A responsive website developed for a college hackathon. I contributed to both website development and event coordination.
+A website developed for a college hackathon, supporting event information and participant access.
 
 **Technologies:** HTML, CSS, JavaScript.
 
-[View Repository](https://github.com/Gauravdev28/IEEEHACKATHON)
-
-[Visit Live Website](https://gauravdev28.github.io/IEEEHACKATHON/)
+- [View Repository](https://github.com/Gauravdev28/IEEEHACKATHON)
+- [Live Website](https://gauravdev28.github.io/IEEEHACKATHON/)
 
 ---
 
-## 📚 Other Repositories
+## 📚 Other Projects
 
-Some of my other repositories include:
+Some of my other programming and development repositories:
 
 - [C++ Programming Practice](https://github.com/Gauravdev28/Cplusplus_Programming_Code)
 - [Python Programs](https://github.com/Gauravdev28/python_programs)
@@ -203,36 +201,54 @@ Some of my other repositories include:
 
 ## 💼 Experience
 
-**Campus Outreach Intern — PreGrad**
+**CodeAlpha — Intern**
 
-Worked on campus outreach activities, communication, and coordination.
+- Worked on frontend development activities.
+- Gained practical experience in building web interfaces.
 
-**Hackathon Coordinator & Web Developer — IEEE Hackathon**
+**PreGrad — Coordinator**
 
-Contributed to event planning, participant coordination, and development of the official hackathon website.
+- Supported coordination and collaboration activities.
+- Worked with peers on technical and academic activities.
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Areas of Interest
 
-- Machine Learning and Deep Learning
+- Artificial Intelligence and Machine Learning
 - Generative AI and Large Language Models
-- Computer Vision
-- Data Structures and Algorithms
-- Full-Stack Application Development
-- Backend Architecture and Deployment
+- Deep Learning and Computer Vision
+- Full-Stack Web Development
+- Backend Development
+- Data Analytics
+- Conversational AI and Voice Automation
+- Cloud Deployment
 
 ---
 
 ## 🤝 Connect With Me
 
-- **GitHub:** https://github.com/Gauravdev28
-- **LinkedIn:** https://www.linkedin.com/in/gauravdeveloper
-- **Portfolio:** https://gauravagl.vercel.app
-- **Email:** gauravagldeveloper28@gmail.com
+<p align="left">
+  <a href="https://github.com/Gauravdev28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gauravdeveloper">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://gauravagl.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:gauravagldeveloper28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-Thanks for visiting my profile! 😊
+<div align="center">
 
-I'm always interested in learning, building projects, and connecting with people working in technology and AI.
+**Thanks for visiting my GitHub profile!**
+
+*Always learning, building, and exploring new technologies. 🚀*
+
+</div>
