@@ -1,285 +1,238 @@
 
-<!-- ===================================================== -->
-<!--                  GAURAV AGARWAL                        -->
-<!-- ===================================================== -->
+# Hi, I'm Gaurav Agarwal 👋
 
-<div align="center">
+### B.Tech AI & ML Student | AI/ML Developer | Full-Stack Developer
 
-# Hey, I'm Gaurav Agarwal 👋
+I'm a B.Tech student at ITM University, Gwalior, interested in Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
-### AI/ML-Focused Developer | Full-Stack Engineer | B.Tech AIML Student
+I enjoy building practical software projects, developing AI-powered applications, and learning new technologies by working on real problems.
 
-Building intelligent applications by combining Artificial Intelligence, Machine Learning, and Full-Stack Engineering.
-
-<p>
-  <a href="https://github.com/Gauravdev28">
-    <img src="https://img.shields.io/badge/GitHub-Gauravdev28-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gauravdeveloper">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://gauravagl.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel" alt="Portfolio"/>
-  </a>
-  <a href="mailto:gauravagldeveloper28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Gauravdev28&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning, passionate about developing intelligent software products and scalable applications.
-
-My work combines AI/ML experimentation with practical software engineering, covering frontend development, backend architecture, database design, API development, system security, and deployment.
-
-I enjoy taking ideas from concept to implementation and building solutions that address real-world problems.
-
-- 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning.
-- 🤖 Interested in Machine Learning, Generative AI, LLMs, and Intelligent Systems.
-- 💻 Building full-stack applications using React, TypeScript, Python, Django, and FastAPI.
-- 🧠 Exploring predictive analytics, explainable AI, and AI-powered automation.
-- 🎙️ Developing conversational AI and multilingual voice-based applications.
-- ☁️ Working with Docker, Azure, and application deployment.
-- 🚀 Focused on building practical, secure, and production-oriented software.
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 🤖 Interested in AI, Machine Learning, and Generative AI
+- 💻 Working with Python, React, TypeScript, and Django
+- 🧠 Exploring Deep Learning, LLMs, and Predictive Analytics
+- 🚀 Building full-stack applications and AI-based projects
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" alt="Programming Languages"/>
-</p>
-
+**Programming Languages**
 - Python
 - C++
 - JavaScript
 - TypeScript
 - SQL
-- HTML5 & CSS3
+- HTML & CSS
 
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend Technologies"/>
-</p>
-
-- React.js
-- TypeScript
+**Frontend Development**
+- React
 - Vite
 - Tailwind CSS
-- Responsive Web Design
-- UI/UX Implementation
-- Monaco Editor
+- Three.js
+- React Three Fiber
 - Recharts
 
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi" alt="Backend Technologies"/>
-</p>
-
+**Backend Development**
 - Python
 - Django
 - Django REST Framework
 - FastAPI
-- REST API Development
-- Django Channels
+- REST APIs
 - Celery
-- Backend Architecture
+- Django Channels
 
-### Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</p>
-
-- Machine Learning
-- Regression Algorithms
-- Classification & Predictive Analytics
+**AI & Machine Learning**
 - Scikit-learn
-- Random Forest
-- Decision Trees
+- Pandas
+- NumPy
 - XGBoost
-- SHAP Explainability
-- Pandas & NumPy
-- Large Language Models (LLMs)
+- SHAP
+- PyTorch
+- Computer Vision
+- Deep Learning
 - Ollama
 - Qwen3
 - Faster-Whisper
-- Piper Text-to-Speech
-- Speech-to-Text (STT)
-- Text-to-Speech (TTS)
+- Piper TTS
 
-### Databases & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,nginx,azure" alt="Databases and Infrastructure"/>
-</p>
-
+**Databases**
 - MySQL
 - PostgreSQL
 - Redis
+
+**Tools & Deployment**
+- Git & GitHub
 - Docker
 - Docker Compose
 - Nginx
 - Microsoft Azure
-- Database Design
-- Application Deployment
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development Tools"/>
-</p>
-
-- Git & GitHub
 - VS Code
 - Linux
-- Docker
-- API Integration
-- Software Testing
-- Debugging
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 1. ExamIIO — University Examination & Assessment Platform
+### 1. ExamIIO — Online Examination Platform
 
-A comprehensive examination management and assessment platform designed to support university-level academic workflows.
+A university examination and assessment platform designed to manage online examinations and technical assessments.
 
-**Key Features**
+**Features**
+- SQL, MCQ, Coding, and Data Analytics assessments
+- Admin, Faculty, Student, and Proctor workflows
+- Question and examination management
+- Online coding assessment and automated evaluation
+- Proctor assignment and examination monitoring
+- Student results and gradebook management
+- Examination security controls
 
-- Multiple assessment modules: SQL, MCQ, Coding, and Data Analytics.
-- Dedicated Admin, Faculty, Student, and Proctor workflows.
-- Online coding assessments and SQL practical examinations.
-- Data analytics assessment with dataset ingestion and execution.
-- Proctor assignment and duty-session management.
-- Examination monitoring and anti-cheating controls.
-- Tab-switching and window-switching detection.
-- Fullscreen-exit handling and shortcut-key restrictions.
-- Gradebook, result management, and reporting.
-- Docker-based deployment and Azure infrastructure.
+**Technologies:** React, TypeScript, Python, Django, MySQL, Redis, Docker, Azure.
 
-**Technology Stack**
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `Python` `Django` `Django REST Framework` `Django Channels` `Celery` `MySQL` `Redis` `Docker` `Nginx` `Azure`
+Repository: Private
 
 ---
 
 ### 2. AI Restaurant Voice Assistant
 
-An AI-powered multilingual restaurant voice assistant designed to automate customer conversations and restaurant operations.
+A local AI-powered restaurant assistant that can interact with customers through voice and help manage food orders.
 
-**Key Features**
+**Features**
+- Voice-based customer interaction
+- Menu understanding and food recommendations
+- Speech recognition using Faster-Whisper
+- Local AI model using Ollama and Qwen3
+- Voice generation using Piper TTS
+- Order creation and modification
+- Customer confirmation before saving orders
 
-- Voice-based customer interaction.
-- English, Hindi, and Hinglish support.
-- Speech-to-text using Faster-Whisper.
-- Local LLM integration using Ollama and Qwen3.
-- Natural voice generation using Piper TTS.
-- Restaurant menu understanding and interaction.
-- Food order creation and modification.
-- Order confirmation and backend validation.
-- Restaurant menu management and staff workflows.
-- Backend API integration and order management.
+**Technologies:** React, TypeScript, Python, FastAPI, Ollama, Qwen3, Faster-Whisper, Piper TTS.
 
-**Technology Stack**
-
-`React` `TypeScript` `Vite` `Python` `FastAPI` `Ollama` `Qwen3` `Faster-Whisper` `Piper TTS` `PostgreSQL`
+[View Repository](https://github.com/Gauravdev28/restaurant_voiceassistant)
 
 ---
 
-### 3. AI-Powered Student Success Prediction & Learning Analytics Platform
+### 3. AI Student Performance & Early Dropout Prediction
 
-An AI/ML-based academic analytics platform focused on predicting student performance and identifying students who may need academic support.
+A machine learning project focused on analyzing student performance and identifying students who may be at risk academically.
 
-**Key Features**
+**Features**
+- Student performance analysis
+- Academic risk prediction
+- Machine learning model evaluation
+- XGBoost-based prediction
+- SHAP-based explainability
+- Data analysis and visualization
 
-- Student examination marks prediction.
-- Linear Regression-based prediction.
-- Random Forest Regressor.
-- Decision Tree Regressor.
-- Early-warning academic risk prediction.
-- Multi-source educational data analysis.
-- Calibrated XGBoost-based risk prediction.
-- SHAP-based model explainability.
-- Student performance analytics dashboard.
+**Technologies:** Python, FastAPI, Scikit-learn, XGBoost, SHAP, Pandas, NumPy.
 
-**Technology Stack**
-
-`Python` `Machine Learning` `Scikit-learn` `Pandas` `NumPy` `XGBoost` `SHAP` `Data Analytics`
+Repository: Private
 
 ---
 
-## 💼 Professional Experience
+### 4. Brain Tumor Classification
 
-### Intern — CodeAlpha
-- Worked on responsive frontend interfaces.
-- Developed and improved frontend workflows.
-- Gained practical experience in web development.
+A deep learning project for multi-class brain tumor classification and segmentation using MRI images.
 
-### Coordinator — PreGrad
-- Coordinated peer collaboration.
-- Supported technical project activities.
-- Developed communication and team coordination skills.
+**Features**
+- MRI image processing
+- Brain tumor classification
+- Attention U-Net segmentation
+- Hybrid CNN and Vision Transformer model
+- Grad-CAM and attention-based explainability
 
----
+**Technologies:** Python, PyTorch, CNN, Vision Transformer, EfficientNet, Attention U-Net, Streamlit.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gauravdev28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub Statistics"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdev28&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravdev28&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+Repository: Private
 
 ---
 
-## 🎯 Current Interests
+### 5. AI Career Assistant
 
-- Building AI-powered software products.
-- Developing and integrating Large Language Models.
-- Machine Learning and predictive analytics.
-- Explainable Artificial Intelligence.
-- Conversational AI and voice automation.
-- Scalable backend architecture.
-- Full-Stack product development.
-- Cloud infrastructure and deployment.
+A career preparation platform with resume building, job description analysis, and ATS-based resume evaluation.
+
+**Features**
+- Resume creation and PDF export
+- Job description analysis
+- Skill gap identification
+- ATS scoring
+- Resume improvement suggestions
+
+**Technologies:** React, TypeScript, FastAPI, Python, SQLAlchemy.
+
+Repository: Private
 
 ---
 
-## 🤝 Let's Connect
+### 6. Developer Portfolio
 
-I'm always interested in connecting with developers, AI/ML enthusiasts, and people working on innovative technology projects.
+My personal portfolio website showcasing my projects, technical skills, and development journey.
 
-<div align="center">
+**Technologies:** React, TypeScript, TanStack Start, Tailwind CSS, Three.js, GSAP, Framer Motion.
 
-<a href="https://github.com/Gauravdev28">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/gauravdeveloper">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://gauravagl.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-8A2BE2?style=for-the-badge&logo=vercel" alt="Portfolio"/>
-</a>
-<a href="mailto:gauravagldeveloper28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
+[View Portfolio Repository](https://github.com/Gauravdev28/Gaurav-Developer-Portfolio-)
 
-### 💡 "Turning ideas into intelligent, scalable solutions."
+[Visit Portfolio Website](https://gauravagl.vercel.app)
 
-</div>
+---
+
+### 7. IEEE Hackathon Website
+
+A responsive website developed for a college hackathon. I contributed to both website development and event coordination.
+
+**Technologies:** HTML, CSS, JavaScript.
+
+[View Repository](https://github.com/Gauravdev28/IEEEHACKATHON)
+
+[Visit Live Website](https://gauravdev28.github.io/IEEEHACKATHON/)
+
+---
+
+## 📚 Other Repositories
+
+Some of my other repositories include:
+
+- [C++ Programming Practice](https://github.com/Gauravdev28/Cplusplus_Programming_Code)
+- [Python Programs](https://github.com/Gauravdev28/python_programs)
+- [Basic Chatbot](https://github.com/Gauravdev28/CodeAlpha_BasicChatbot)
+- [Hangman Game](https://github.com/Gauravdev28/CodeAlpha_HangmanGame)
+- [Employee Management Project](https://github.com/Gauravdev28/Employees_Management_Project-)
+- [Expense Tracking Project](https://github.com/Gauravdev28/Expenses_Tracking_Project)
+
+---
+
+## 💼 Experience
+
+**Campus Outreach Intern — PreGrad**
+
+Worked on campus outreach activities, communication, and coordination.
+
+**Hackathon Coordinator & Web Developer — IEEE Hackathon**
+
+Contributed to event planning, participant coordination, and development of the official hackathon website.
+
+---
+
+## 🎯 Currently Learning
+
+- Machine Learning and Deep Learning
+- Generative AI and Large Language Models
+- Computer Vision
+- Data Structures and Algorithms
+- Full-Stack Application Development
+- Backend Architecture and Deployment
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** https://github.com/Gauravdev28
+- **LinkedIn:** https://www.linkedin.com/in/gauravdeveloper
+- **Portfolio:** https://gauravagl.vercel.app
+- **Email:** gauravagldeveloper28@gmail.com
+
+---
+
+Thanks for visiting my profile! 😊
+
+I'm always interested in learning, building projects, and connecting with people working in technology and AI.
